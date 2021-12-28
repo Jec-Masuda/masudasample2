@@ -1,0 +1,9 @@
+AoyamaIchiro,male
+KagawaMisato,female
+SasakiMidori,female
+TakahashiSyota,male
+NakayamaKenji,male
+HasegawaSatoshi,male
+MatsuzakaMio,female
+YamamotoTsukasa,male
+WatanabeDaisuke,male
