@@ -7,3 +7,4 @@ HasegawaSatoshi,male
 MatsuzakaMio,female
 YamamotoTsukasa,male
 WatanabeDaisuke,male
+MasudaShintarou,male
