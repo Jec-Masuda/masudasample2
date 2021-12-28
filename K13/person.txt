@@ -10,9 +10,5 @@ WatanabeDaisuke,male
 MasudaShintarou,male
 Aaa,male
 Bbb,female
-<<<<<<< HEAD
 Ccc,male
 Ddd,Female
-=======
-Ccc,male
->>>>>>> main
